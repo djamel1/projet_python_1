@@ -1,7 +1,9 @@
 
 def main():
-    print("dfghjkl")
-    print("hello python ")
-    print("benlaiterdjamel")
 
+    age = 25
+    d = "{} is\n \t \a hekeke".format(age)
+    #print(d,type(d))
+    #g = "%d jhgfds"%age
+    print(d)
 if __name__ == '__main__':main()
